@@ -71,5 +71,3 @@
 ### Link a Repositorio
 
 [https://github.com/YahirRivera04/Mini-Reto-1-Mi-Pagina-Retro](https://github.com/YahirRivera04/Mini-Reto-1-Mi-Pagina-Retro)
-
-[https://github.com/YahirRivera04/Mini-Reto-1-Mi-Pagina-Retro](https://github.com/YahirRivera04/Mini-Reto-1-Mi-Pagina-Retro)
